@@ -15,6 +15,41 @@ const toLowerCase = str => {
   return string;
 };
 
+const toLowerCase1 = str =>
+  str
+    .split('')
+    .map(char => {
+      if (/[A-Z]/.test(char)) {
+        return String.fromCharCode(char.charCodeAt() + 32);
+      } else {
+        return char;
+      }
+    })
+    .join('');
+
+const toLowerCase2 = str =>
+  str.split('').reduce((str, char) => {
+    if (/[A-Z]/.test(char)) {
+      return str + String.fromCharCode(char.charCodeAt() + 32);
+    } else {
+      return str + char;
+    }
+  }, '');
+
+const toLowerCase3 = str => str.toLowerCase();
+
 console.log(toLowerCase('Hello'));
 console.log(toLowerCase('here'));
 console.log(toLowerCase('LOVELY'));
+console.log('------');
+console.log(toLowerCase1('Hello'));
+console.log(toLowerCase1('here'));
+console.log(toLowerCase1('LOVELY'));
+console.log('------');
+console.log(toLowerCase2('Hello'));
+console.log(toLowerCase2('here'));
+console.log(toLowerCase2('LOVELY'));
+console.log('------');
+console.log(toLowerCase3('Hello'));
+console.log(toLowerCase3('here'));
+console.log(toLowerCase3('LOVELY'));

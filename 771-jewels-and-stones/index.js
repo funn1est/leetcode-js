@@ -13,5 +13,11 @@ const numJewelsInStones = (J, S) => {
   return count;
 };
 
+const numJewelsInStones1 = (J, S) =>
+  S.split('').reduce((acc, char) => (J.includes(char) ? ++acc : acc), 0);
+
 console.log(numJewelsInStones('aA', 'aAAbbbb'));
 console.log(numJewelsInStones('z', 'ZZ'));
+console.log('------');
+console.log(numJewelsInStones1('aA', 'aAAbbbb'));
+console.log(numJewelsInStones1('z', 'ZZ'));

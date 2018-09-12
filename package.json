@@ -1,0 +1,10 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "repository": "https://github.com/FuNn1esT/leedcode.git",
+  "author": "FuNn1esT <admin@funn1est.cn>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.14.2"
+  }
+}
