@@ -76,9 +76,7 @@ const uniqueMorseRepresentations1 = words => {
     '--..',
   ];
   const transWord = word =>
-    word
-      .split('')
-      .reduce((str, letter) => str + morseList[letter.charCodeAt() - 97], '');
+    word.split('').reduce((str, letter) => str + morseList[letter.charCodeAt() - 97], '');
   return words.map(transWord).reduce((xs, x) => xs.add(x), new Set()).size;
 };
 
