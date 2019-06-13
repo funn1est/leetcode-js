@@ -44,9 +44,12 @@ const matrix1 = [[1, 1, 1], [1, 0, 1], [1, 1, 1]];
 const matrix2 = [[0, 1, 2, 0], [3, 4, 5, 2], [1, 3, 1, 5]];
 const matrix3 = [[1, 1, 1], [0, 1, 2]];
 
-// setZeroes(matrix1);
-// setZeroes(matrix2);
-setZeroes(matrix3);
-console.log(matrix1);
-console.log(matrix2);
-console.log(matrix3); // [[0, 1, 1], [0, 0, 0]]
+it('test setZeroes', () => {
+  setZeroes(matrix1);
+  setZeroes(matrix2);
+  setZeroes(matrix3);
+  console.log(matrix1);
+  console.log(matrix2);
+  console.log(matrix3); // [[0, 1, 1], [0, 0, 0]]
+  expect(1).toBe(1);
+});
