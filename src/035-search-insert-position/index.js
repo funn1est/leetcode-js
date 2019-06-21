@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/search-insert-position/
+// https://leetcode-cn.com/problems/search-insert-position/
+
 /**
  * @param {number[]} nums
  * @param {number} target

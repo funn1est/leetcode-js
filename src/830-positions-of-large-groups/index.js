@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/positions-of-large-groups/
+// https://leetcode-cn.com/problems/positions-of-large-groups/
+
 /**
  * @param {string} S
  * @return {number[][]}

@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/fair-candy-swap/
+// https://leetcode-cn.com/problems/fair-candy-swap/
+
 /**
  * @param {number[]} A
  * @param {number[]} B

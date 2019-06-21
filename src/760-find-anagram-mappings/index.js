@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/find-anagram-mappings/
+// https://leetcode-cn.com/problems/find-anagram-mappings/
+
 /**
  * @param {number[]} A
  * @param {number[]} B

@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/monotonic-array/
+// https://leetcode-cn.com/problems/monotonic-array/
+
 /**
  * @param {number[]} A
  * @return {boolean}

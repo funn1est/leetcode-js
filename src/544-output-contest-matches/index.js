@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/output-contest-matches/
+// https://leetcode-cn.com/problems/output-contest-matches/
+
 /**
  * @param {number} n
  * @return {string}

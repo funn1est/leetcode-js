@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/largest-number/
+// https://leetcode-cn.com/problems/largest-number/
+
 /**
  * @param {number[]} nums
  * @return {string}

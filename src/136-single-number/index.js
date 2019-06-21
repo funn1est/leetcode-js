@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/single-number/
+// https://leetcode-cn.com/problems/single-number/
+
 /**
  * @param {number[]} nums
  * @return {number}

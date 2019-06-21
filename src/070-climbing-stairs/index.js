@@ -1,9 +1,12 @@
+// https://leetcode.com/problems/climbing-stairs/
+// https://leetcode-cn.com/problems/climbing-stairs/
+
 /**
  * @param {number} n
  * @return {number}
  */
 const climbStairs = n => {
-  const memo = [];
+  const memo = {};
   const helper = (i, end) => {
     if (i > end) {
       return 0;

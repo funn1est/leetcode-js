@@ -1,9 +1,5 @@
-class ListNode {
-  constructor(val, next = null) {
-    this.val = val;
-    this.next = next;
-  }
-}
+// https://leetcode.com/problems/reverse-linked-list/
+// https://leetcode-cn.com/problems/reverse-linked-list/
 
 /**
  * Definition for singly-linked list.

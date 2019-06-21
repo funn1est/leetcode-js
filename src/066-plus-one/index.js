@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/plus-one/
+// https://leetcode-cn.com/problems/plus-one/
+
 /**
  * @param {number[]} digits
  * @return {number[]}

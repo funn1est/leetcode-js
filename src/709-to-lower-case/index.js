@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/to-lower-case/
+// https://leetcode-cn.com/problems/to-lower-case/
+
 /**
  * @param {string} str
  * @return {string}
@@ -21,9 +24,8 @@ const toLowerCase1 = str =>
     .map(char => {
       if (/[A-Z]/.test(char)) {
         return String.fromCharCode(char.charCodeAt() + 32);
-      } else {
-        return char;
       }
+      return char;
     })
     .join('');
 

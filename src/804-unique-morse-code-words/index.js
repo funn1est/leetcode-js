@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/unique-morse-code-words/
+// https://leetcode-cn.com/problems/unique-morse-code-words/
+
 /**
  * @param {string[]} words
  * @return {number}

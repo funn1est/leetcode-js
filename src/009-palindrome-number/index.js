@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/palindrome-number/
+// https://leetcode-cn.com/problems/palindrome-number/
+
 /**
  * @param {number} x
  * @return {boolean}

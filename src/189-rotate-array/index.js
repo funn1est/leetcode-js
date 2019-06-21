@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/rotate-array/
+// https://leetcode-cn.com/problems/rotate-array/
+
 /**
  * @param {number[]} nums
  * @param {number} k

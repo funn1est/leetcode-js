@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/peak-index-in-a-mountain-array/
+// https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/
+
 /**
  * @param {number[]} A
  * @return {number}
@@ -9,7 +12,8 @@ const peakIndexInMountainArray = A => {
     const mid = start + Math.floor((end - start) / 2);
     if (A[mid] > A[mid - 1] && A[mid] > A[mid + 1]) {
       return mid;
-    } else if (A[mid] < A[mid - 1]) {
+    }
+    if (A[mid] < A[mid - 1]) {
       end = mid - 1;
     } else {
       start = mid + 1;

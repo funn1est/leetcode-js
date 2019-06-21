@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+// https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
+
 /**
  * @param {number[]} nums
  * @return {number}

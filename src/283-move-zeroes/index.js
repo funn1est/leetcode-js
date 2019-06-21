@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/move-zeroes/
+// https://leetcode-cn.com/problems/move-zeroes/
+
 /**
  * @param {number[]} nums
  * @return {void} Do not return anything, modify nums in-place instead.

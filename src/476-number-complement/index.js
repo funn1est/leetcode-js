@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/number-complement/
+// https://leetcode-cn.com/problems/number-complement/
+
 /**
  * @param {number} num
  * @return {number}

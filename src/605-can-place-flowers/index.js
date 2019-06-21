@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/can-place-flowers/
+// https://leetcode-cn.com/problems/can-place-flowers/
+
 /**
  * @param {number[]} flowerbed
  * @param {number} n

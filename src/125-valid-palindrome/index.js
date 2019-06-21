@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/valid-palindrome/
+// https://leetcode-cn.com/problems/valid-palindrome/
+
 /**
  * @param {string} s
  * @return {boolean}

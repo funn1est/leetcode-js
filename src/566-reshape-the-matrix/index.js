@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/reshape-the-matrix/
+// https://leetcode-cn.com/problems/reshape-the-matrix/
+
 /**
  * @param {number[][]} nums
  * @param {number} r

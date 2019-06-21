@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/implement-strstr/
+// https://leetcode-cn.com/problems/implement-strstr/
+
 /**
  * @param {string} str
  * @param {string} target

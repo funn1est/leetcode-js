@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/toeplitz-matrix/
+// https://leetcode-cn.com/problems/toeplitz-matrix/
+
 /**
  * @param {number[][]} matrix
  * @return {boolean}

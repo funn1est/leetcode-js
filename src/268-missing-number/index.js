@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/missing-number/
+// https://leetcode-cn.com/problems/missing-number/
+
 /**
  * @param {number[]} nums
  * @return {number}
@@ -6,7 +9,7 @@ const missingNumber = nums => {
   const len = nums.length;
   let sum = 0;
   let expected = len;
-  for (let i = 0; i < len; i++) {
+  for (let i = 0; i < len; i += 1) {
     sum += nums[i];
     expected += i;
   }

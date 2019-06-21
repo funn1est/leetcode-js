@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/fizz-buzz/
+// https://leetcode-cn.com/problems/fizz-buzz/
+
 /**
  * @param {number} n
  * @return {string[]}

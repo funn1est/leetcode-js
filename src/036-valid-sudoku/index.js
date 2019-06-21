@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/valid-sudoku/
+// https://leetcode-cn.com/problems/valid-sudoku/
+
 /**
  * @param {character[][]} board
  * @return {boolean}

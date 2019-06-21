@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+// https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/
+
 /**
  * @param {number[]} nums
  * @return {number}

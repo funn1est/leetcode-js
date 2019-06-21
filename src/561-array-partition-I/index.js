@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/array-partition-i/
+// https://leetcode-cn.com/problems/array-partition-i/
+
 /**
  * @param {number[]} nums
  * @return {number}

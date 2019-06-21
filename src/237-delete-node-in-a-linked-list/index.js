@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/delete-node-in-a-linked-list/
+// https://leetcode-cn.com/problems/delete-node-in-a-linked-list/
+
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {

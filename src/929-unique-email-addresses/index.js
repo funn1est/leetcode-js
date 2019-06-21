@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/unique-email-addresses/
+// https://leetcode-cn.com/problems/unique-email-addresses/
+
 /**
  * @param {string[]} emails
  * @return {number}

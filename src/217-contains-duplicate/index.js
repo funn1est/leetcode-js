@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/contains-duplicate/
+// https://leetcode-cn.com/problems/contains-duplicate/
+
 /**
  * @param {number[]} nums
  * @return {boolean}

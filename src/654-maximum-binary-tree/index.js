@@ -1,10 +1,7 @@
-class TreeNode {
-  constructor(val, left = null, right = null) {
-    this.val = val;
-    this.left = left;
-    this.right = right;
-  }
-}
+// https://leetcode.com/problems/maximum-binary-tree/
+// https://leetcode-cn.com/problems/maximum-binary-tree/
+
+const TreeNode = require('../TreeNode');
 
 /**
  * Definition for a binary tree node.

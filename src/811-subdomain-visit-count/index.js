@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/subdomain-visit-count/
+// https://leetcode-cn.com/problems/subdomain-visit-count/
+
 /**
  * @param {string[]} cpdomains
  * @return {string[]}
@@ -8,9 +11,9 @@ const subdomainVisits = cpdomains => {
     let [visit, domain] = cpdomain.split(' ');
     while (true) {
       if (count[domain]) {
-        count[domain] += parseInt(visit);
+        count[domain] += parseInt(visit, 10);
       } else {
-        count[domain] = parseInt(visit);
+        count[domain] = parseInt(visit, 10);
       }
       const splitIndex = domain.indexOf('.');
       if (splitIndex !== -1) {

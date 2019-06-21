@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/di-string-match/
+// https://leetcode-cn.com/problems/di-string-match/
+
 /**
  * @param {string} s
  * @return {number[]}

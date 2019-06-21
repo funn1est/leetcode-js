@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/two-sum/
+// https://leetcode-cn.com/problems/two-sum/
+
 /**
  * @param {number[]} nums
  * @param {number} target
@@ -14,5 +17,7 @@ const twoSum = (nums, target) => {
   }
   return null;
 };
+
+module.exports = { twoSum };
 
 console.log(twoSum([2, 7, 11, 15], 9));

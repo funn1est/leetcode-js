@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/jewels-and-stones/
+// https://leetcode-cn.com/problems/jewels-and-stones/
+
 /**
  * @param {string} J
  * @param {string} S

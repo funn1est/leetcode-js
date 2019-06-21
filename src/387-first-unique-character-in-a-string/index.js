@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/first-unique-character-in-a-string/
+// https://leetcode-cn.com/problems/first-unique-character-in-a-string/
+
 /**
  * @param {string} s
  * @return {number}

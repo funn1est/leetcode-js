@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/max-consecutive-ones/
+// https://leetcode-cn.com/problems/max-consecutive-ones/
+
 /**
  * @param {number[]} nums
  * @return {number}

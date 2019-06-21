@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/valid-anagram/
+// https://leetcode-cn.com/problems/valid-anagram/
+
 /**
  * @param {string} s
  * @param {string} t

@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/self-dividing-numbers/
+// https://leetcode-cn.com/problems/self-dividing-numbers/
+
 /**
  * @param {number} left
  * @param {number} right

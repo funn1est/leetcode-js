@@ -1,9 +1,8 @@
-class ListNode {
-  constructor(val, next = null) {
-    this.val = val;
-    this.next = next;
-  }
-}
+// https://leetcode.com/problems/swap-nodes-in-pairs/
+// https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+
+const ListNode = require('../ListNode');
+
 /**
  * Definition for singly-linked list.
  * function ListNode(val) {

@@ -1,4 +1,5 @@
-const TreeNode = require('../TreeNode');
+// https://leetcode.com/problems/maximum-depth-of-binary-tree/
+// https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/
 
 /**
  * Definition for a binary tree node.

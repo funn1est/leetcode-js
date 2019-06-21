@@ -1,3 +1,6 @@
+// https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+// https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/
+
 /**
  * @param {number[]} nums
  * @return {number[]}
