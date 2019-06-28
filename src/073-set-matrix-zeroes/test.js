@@ -1,4 +1,4 @@
-const setZeroes = require('./index');
+const setZeroes = require('./main');
 
 it('test setZeroes', () => {
   const matrix1 = [[1, 1, 1], [1, 0, 1], [1, 1, 1]];

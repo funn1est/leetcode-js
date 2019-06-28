@@ -1,4 +1,4 @@
-const { searchMatrix } = require('./index');
+const { searchMatrix } = require('./main');
 
 it('test searchMatrix', () => {
   const matrix = [

@@ -1,4 +1,4 @@
-const { trailingZeroes, trailingZeroes1 } = require('./index');
+const { trailingZeroes, trailingZeroes1 } = require('./main');
 
 it('test trailingZeroes', () => {
   expect(trailingZeroes(3)).toBe(0);
